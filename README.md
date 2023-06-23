@@ -1,0 +1,2 @@
+# Python_Docker.App
+Create a sample Python application Create a new Dockerfile which contains instructions required to build a Python image Build an image and run the newly built image as a container Set up volumes and networking Orchestrate containers using Compose Use containers for development
